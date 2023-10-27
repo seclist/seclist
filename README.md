@@ -13,6 +13,18 @@ I am Owen, currently persuing my love for coding and working on achieving my Com
                 - React.js
   
                 - JavaScript XML
+
+- 👀 I have experience in:
+  
+                 - Python
+
+                 - C++
+
+                 - Java
+
+                 - JavaScript
+
+                 - Node.js
   
 - ⚡ Completed Projects:
   
