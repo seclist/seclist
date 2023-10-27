@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Owen, currently persuing my love for coding and working on achieving my Computer Science Degree.
+I am Owen, currently pursuing my love for coding and working on achieving my Computer Science Degree.
 
 - 🔭 I’m currently working on:
   
