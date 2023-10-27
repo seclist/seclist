@@ -25,6 +25,10 @@ I am Owen, currently persuing my love for coding and working on achieving my Com
                  - JavaScript
 
                  - Node.js
+
+                 - HTML
+
+                 - CSS
   
 - ⚡ Completed Projects:
   
