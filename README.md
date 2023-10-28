@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently pursuing my love for coding and working on achieving my Computer Science Degree.
+Currently coding and working on achieving my Computer Science Degree.
 
 - 🔭 I’m currently working on:
   
