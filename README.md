@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Currently coding and working on achieving my Computer Science Degree.
+Currently coding and completing my computer science degree
+
+Uploading old code from highschool here
 
 - 🔭 I’m currently working on:
   
