@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seclist&label=Profile%20views&color=f5c2ec&style=flat" alt="seclist" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seclist&label=Profile%20views&color=lightgrey&style=flat" alt="seclist" /> </p>
 
 
 ```csharp
