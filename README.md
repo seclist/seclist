@@ -1,43 +1,29 @@
-### Hi there 👋
+using System;
 
-Currently coding and completing my computer science degree
+class Info
+{
+    public string Name { get; set; }
+    public string Role { get; set; }
+    public string[] LanguagesSpoken { get; set; }
 
-Uploading old code from highschool here
+    public Info()
+    {
+        Name = "seclist";
+        Role = "student";
+        LanguagesSpoken = new string[] { "en_UK" };
+    }
 
-- 🔭 I’m currently working on:
-  
-                -  My personal webpage
-  
-                -  Encryption/Decryption API
-  
-- 🌱 I’m currently learning:
-  
-                - React.js
-  
-                - JavaScript XML
+    public void SayFact()
+    {
+        Console.WriteLine("survived another meeting...that couldve been an email");
+    }
+}
 
-- 👀 I have experience in:
-  
-                 - Python
-
-                 - C++
-
-                 - Java
-
-                 - JavaScript
-
-                 - Node.js
-
-                 - HTML
-
-                 - CSS
-  
-- ⚡ Completed Projects:
-  
-                - SECSINT (personal osint tool)
-  
-                - proxyscrape
-  
-                - platformer games
-  
-                - and many more (working on uploading all to my github)
+class Program
+{
+    static void Main()
+    {
+        Info me = new Info();
+        me.SayFact();
+    }
+}
