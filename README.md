@@ -19,7 +19,7 @@ class Info
 
     public void SayFact()
     {
-        Console.WriteLine("survived another meeting...that couldve been an email");
+        Console.WriteLine("tomorrow is never promised");
     }
 }
 
